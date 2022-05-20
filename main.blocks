@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="m.g3z6#u~nBhJxY82Vg:">a</variable><variable id="vWDPW-Zddb9?(U*I3$O5">b</variable></variables><block type="device_button_event" id="S~~bp9{h-Y/;y?EeS4fl" x="0" y="0"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_number" id="/1N_mxo8QbD/^MK.~veX"><value name="number"><block type="device_random" id="uns@oH0{3wR14[lDC;J["><value name="min"><shadow type="math_number" id="2X(vf,-+HSKkVzDPup-B"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="Z,[ir2m(dvG./PH(XZv+"><field name="NUM">6</field></shadow></value></block></value><next><block type="device_clear_display" id="|V-mjC%xYx0*d4w1H/aG"><next><block type="device_show_leds" id="Lg.E0gUm`L.[DL=R2]8T"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></statement></block><block type="logic_compare" id="wvy};5Rhz/[w*i6%9~h(" disabled="true" x="-395" y="406"><field name="OP">EQ</field><value name="A"><shadow type="math_number" id="O~{s*~v+Av|xgV@J8-SU" disabled="true"><field name="NUM">0</field></shadow></value><value name="B"><shadow type="math_number" id="z[xc?w(`c4^C8s4-pd@*" disabled="true"><field name="NUM">0</field></shadow></value></block></xml>
